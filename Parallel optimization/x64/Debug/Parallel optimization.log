@@ -1,0 +1,4 @@
+﻿  optimization.cpp
+C:\Projects\Optimization\Parallel optimization\Parallel optimization\optimization.cpp(300,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Projects\Optimization\Parallel optimization\Parallel optimization\optimization.cpp(69): warning C4715: 'nearest_point_to_rectangle': not all control paths return a value
+  Parallel optimization.vcxproj -> C:\Projects\Optimization\Parallel optimization\x64\Debug\Parallel optimization.exe
