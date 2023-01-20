@@ -15,7 +15,7 @@ The effect of the distance between the shop and the nearest point of the city on
 
 ```math
 C_{r}(x_{1},y_{1},x_{r},y_{r})=\left\{\begin{matrix}
-0,\,if\,shop\,is\,out\,of\,city\,bounds
+0,\,if\,shop\,is\,in\,city\,bounds
 \\ 
 0.5*((x_{1}-x_{2})^2+(y_{1}-y_{2})^2),\,other\,cases
 \end{matrix}\right.
