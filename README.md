@@ -99,3 +99,5 @@ example:
 50_100.txt
 
 50 already existing shop coordinates and 100 shop coordinates that need to optimized. Both sets of coordinates are seperated by a symbol #.
+
+Result file contains original and mooved coordinates of shops.
